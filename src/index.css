@@ -1,0 +1,7 @@
+ul {
+  list-style-type: none;
+  padding: 0;
+  font-size: 30px;
+}
+@import "tailwindcss";
+
